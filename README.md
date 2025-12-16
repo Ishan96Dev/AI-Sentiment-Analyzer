@@ -7,6 +7,10 @@
 
 > **Advanced LLM-powered sentiment classification system providing instant, accurate analysis of text sentiment with detailed explanations and confidence metrics.**
 
+## 🌐 Live Demo
+
+**[Try it now →](https://sentiment-aianalyzer.streamlit.app/)** - Deployed on Streamlit Cloud
+
 Created by **Ishan Chakraborty** | [MIT License](LICENSE)
 
 ---
